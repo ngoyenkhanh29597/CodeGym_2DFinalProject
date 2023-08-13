@@ -4,19 +4,11 @@ using UnityEngine;
 
 public class Boys : MonoBehaviour
 {
-    public void Boys_OnClicked()
-    {
-        Debug.Log("Clicking on " + gameObject.name);
-    }
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [SerializeField] private GameObject explode;
 
-    // Update is called once per frame
-    void Update()
+    public void GetShot()
     {
-        
+        Instantiate(explode, transform.position, Quaternion.Euler(90, 0, 0));
+        Destroy(gameObject);
     }
 }

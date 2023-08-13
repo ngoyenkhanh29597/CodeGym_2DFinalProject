@@ -24,14 +24,13 @@ public class Shooting : MonoBehaviour
         target = transform.GetComponent<Camera>().ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, transform.position.z)); //Get mouse's postion
         targetAim.transform.position = new Vector2(target.x, target.y); //Attach target aim's position to mouse's position
 
-        Vector3 difference = target - player.transform.position;
-        float rotationZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg;
+        Vector3 difference = target - player.transform.position; //Find vector between two points (from player's position to the mouse's position)
+        float rotationZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg; //Find the angle between x-axis and the difference vector 
         //player.transform.rotation = Quaternion.Euler(0.0f, 0.0f, rotationZ);
 
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0)) //Get mouse's click event
         {
-            float distance = difference.magnitude;
-            Vector2 direction = difference / distance;
+            Vector2 direction = difference;
             direction.Normalize();
             fireBullet(direction, rotationZ);
         }
