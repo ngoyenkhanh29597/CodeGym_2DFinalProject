@@ -1,0 +1,2905 @@
+fileFormatVersion: 2
+guid: 079680cc8090b4cedbf296b09b4e3217
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7996173982441457390
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_0
+  - first:
+      213: -4393576557817031852
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_1
+  - first:
+      213: 5735430537538857344
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_2
+  - first:
+      213: -2087334343391211229
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_3
+  - first:
+      213: -1103138694964467507
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_4
+  - first:
+      213: -8247631359528885058
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_5
+  - first:
+      213: 6259825429850390463
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_6
+  - first:
+      213: -6051085219103841124
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_7
+  - first:
+      213: 8808599065927396231
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_8
+  - first:
+      213: 3294429187359154482
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_9
+  - first:
+      213: 587346285474757188
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_10
+  - first:
+      213: -9030879578110838085
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_11
+  - first:
+      213: -3388727673804055449
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_12
+  - first:
+      213: -3851469492351271531
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_13
+  - first:
+      213: 2427647719665710377
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_14
+  - first:
+      213: 1900827241097698019
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_15
+  - first:
+      213: -3393024832085006400
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_16
+  - first:
+      213: 8115564090962430355
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_17
+  - first:
+      213: -1055418520510896416
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_18
+  - first:
+      213: 6441619730836020752
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_19
+  - first:
+      213: 7073483338451690969
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_20
+  - first:
+      213: 7065663406018771955
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_21
+  - first:
+      213: 1127166219104194567
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_22
+  - first:
+      213: -8117323436608313727
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_23
+  - first:
+      213: 3730579971976914279
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_24
+  - first:
+      213: -7050219876096900433
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_25
+  - first:
+      213: 4506611509682644417
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_26
+  - first:
+      213: -5161248326592467409
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_27
+  - first:
+      213: 5430785178861627753
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_28
+  - first:
+      213: 5678560141129701762
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_29
+  - first:
+      213: 7146935540237152491
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_30
+  - first:
+      213: -7523496769422009473
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_31
+  - first:
+      213: 1590796795396597779
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_32
+  - first:
+      213: 8103218952285409599
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_33
+  - first:
+      213: -3524479260404308310
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_34
+  - first:
+      213: 815042552661917773
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_35
+  - first:
+      213: -3057137460524689509
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_36
+  - first:
+      213: 7682145864868815175
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_37
+  - first:
+      213: 6943111166097139572
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_38
+  - first:
+      213: -4566051492163485212
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_39
+  - first:
+      213: -3237434986269012185
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_40
+  - first:
+      213: 7564213806152091721
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_41
+  - first:
+      213: 6695169768108147801
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_42
+  - first:
+      213: 3469650755120985542
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_43
+  - first:
+      213: 8594281827298503862
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_44
+  - first:
+      213: -5998671865039326288
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_45
+  - first:
+      213: -5764262273822158154
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_46
+  - first:
+      213: -7753423502481364347
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_47
+  - first:
+      213: 337709184973967696
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_48
+  - first:
+      213: 1459866671333916226
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_49
+  - first:
+      213: -5716903570178099635
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_50
+  - first:
+      213: 6053663305410946221
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_51
+  - first:
+      213: 6725754652390029849
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_52
+  - first:
+      213: -3218736171239579818
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_53
+  - first:
+      213: 3612973446818638803
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_54
+  - first:
+      213: 8905459183754582398
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_55
+  - first:
+      213: -6059429949219347362
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_56
+  - first:
+      213: -8411761373250921289
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_57
+  - first:
+      213: 5240574176968455163
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_58
+  - first:
+      213: -3343779587965361641
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_59
+  - first:
+      213: -3076139004600758645
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_60
+  - first:
+      213: -7666257716093262527
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_61
+  - first:
+      213: -2116769887883830659
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_62
+  - first:
+      213: 4566827139371217397
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_63
+  - first:
+      213: -277409305164813428
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_64
+  - first:
+      213: -6041283818470450047
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_65
+  - first:
+      213: 5797164184713494364
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_66
+  - first:
+      213: 2156801239260388356
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_67
+  - first:
+      213: 2448886222855745820
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_68
+  - first:
+      213: 6717153676997508950
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_69
+  - first:
+      213: -8742743529281472272
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_70
+  - first:
+      213: 2754334177530103453
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_71
+  - first:
+      213: 82305647503481719
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_72
+  - first:
+      213: -8186769575619153112
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_73
+  - first:
+      213: -8121925672829526069
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_74
+  - first:
+      213: 6317933179299170177
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_75
+  - first:
+      213: 7898465783569123794
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_76
+  - first:
+      213: -1870882441292976465
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_77
+  - first:
+      213: 3126790098322928079
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_78
+  - first:
+      213: 4411818565024295953
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_79
+  - first:
+      213: -2305157580722655000
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_80
+  - first:
+      213: -5120289574509250626
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_81
+  - first:
+      213: -7844605742824286345
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_82
+  - first:
+      213: 5876300666695075885
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_83
+  - first:
+      213: -5371442463094099663
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_84
+  - first:
+      213: 6096069993205707365
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_85
+  - first:
+      213: 2961605259686490622
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_86
+  - first:
+      213: -4875837596034071608
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_87
+  - first:
+      213: -3308037152966368122
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_88
+  - first:
+      213: -7917892811678124338
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_89
+  - first:
+      213: 4938725811668197121
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_90
+  - first:
+      213: 2842009756066430016
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_91
+  - first:
+      213: 9072554941429002496
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_92
+  - first:
+      213: -8948277868884730297
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_93
+  - first:
+      213: 8981378559174643787
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_94
+  - first:
+      213: 6039333175877705670
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_95
+  - first:
+      213: 5311239540405432051
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_96
+  - first:
+      213: 798929655680470594
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_97
+  - first:
+      213: -4303759210877868779
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_98
+  - first:
+      213: -2142507638346052122
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_99
+  - first:
+      213: 2726180404795770220
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_100
+  - first:
+      213: -7960039191285279446
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_101
+  - first:
+      213: -6533473745243237464
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_102
+  - first:
+      213: -4504096786405496298
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_103
+  - first:
+      213: -1596527307477913608
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_104
+  - first:
+      213: -3463174641886003687
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_105
+  - first:
+      213: 4093871892719820184
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_106
+  - first:
+      213: -7461468626493512229
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_107
+  - first:
+      213: 6879367643404519462
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_108
+  - first:
+      213: 8442449240980868013
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_109
+  - first:
+      213: 6281160924537616445
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_110
+  - first:
+      213: 5215465596182775691
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_111
+  - first:
+      213: 3424375561872672552
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_112
+  - first:
+      213: 3700608566550400562
+    second: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_113
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6c4a91fdd18fe60800000000000000
+      internalID: 7996173982441457390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 336
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45315d91661e603c0800000000000000
+      internalID: -4393576557817031852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 336
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0896eefafa7589f40800000000000000
+      internalID: 5735430537538857344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 336
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32191be497c4803e0800000000000000
+      internalID: -2087334343391211229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 336
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8a7ac933dd0b0f0800000000000000
+      internalID: -1103138694964467507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 336
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4a8e0f9f68a8d80800000000000000
+      internalID: -8247631359528885058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 336
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf703eff0e5fd650800000000000000
+      internalID: 6259825429850390463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 336
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94e2b1ad0a360ca0800000000000000
+      internalID: -6051085219103841124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 336
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ba0753e2e6e3a70800000000000000
+      internalID: 8808599065927396231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 336
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a83a24e928bd20800000000000000
+      internalID: 3294429187359154482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 336
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a3ed1b55ca62800800000000000000
+      internalID: 587346285474757188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 336
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbabf511fdedba280800000000000000
+      internalID: -9030879578110838085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c9f5a8222d8f0d0800000000000000
+      internalID: -3388727673804055449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 288
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59df52517e4dc8ac0800000000000000
+      internalID: -3851469492351271531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 288
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92536722dbcb0b120800000000000000
+      internalID: 2427647719665710377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 288
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea93050e48116a10800000000000000
+      internalID: 1900827241097698019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 288
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c76e7964ed89e0d0800000000000000
+      internalID: -3393024832085006400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 288
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3994bb9ea8640a070800000000000000
+      internalID: 8115564090962430355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 288
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6649b82766a51f0800000000000000
+      internalID: -1055418520510896416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 288
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ed0aa140b356950800000000000000
+      internalID: 6441619730836020752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ae019e9f0a2260800000000000000
+      internalID: 7073483338451690969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 288
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb93aae674e0260800000000000000
+      internalID: 7065663406018771955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 288
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700968c44bf74af00800000000000000
+      internalID: 1127166219104194567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 288
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18622028759795f80800000000000000
+      internalID: -8117323436608313727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 240
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765eed318bea5c330800000000000000
+      internalID: 3730579971976914279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 240
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa288d85066982e90800000000000000
+      internalID: -7050219876096900433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 240
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5225f7a43ba8e30800000000000000
+      internalID: 4506611509682644417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 240
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e60ef0eff8f58b0800000000000000
+      internalID: -5161248326592467409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 240
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969e08db8560e5b40800000000000000
+      internalID: 5430785178861627753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 240
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2895abfac5c4ece40800000000000000
+      internalID: 5678560141129701762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 240
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0337cf1040f2360800000000000000
+      internalID: 7146935540237152491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 240
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b5dc5ac8b279790800000000000000
+      internalID: -7523496769422009473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 240
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318a17bc145a31610800000000000000
+      internalID: 1590796795396597779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 240
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f315f2454ba647070800000000000000
+      internalID: 8103218952285409599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 240
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ae5149c8861fc0800000000000000
+      internalID: -3524479260404308310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 240
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40cd3422ec9f4b00800000000000000
+      internalID: 815042552661917773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97d2e35dadd295d0800000000000000
+      internalID: -3057137460524689509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 192
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741ed3c56f67c9a60800000000000000
+      internalID: 7682145864868815175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477a443c1d2ea5060800000000000000
+      internalID: 6943111166097139572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 192
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1047f1c5022a0c0800000000000000
+      internalID: -4566051492163485212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f830c58025213d0800000000000000
+      internalID: -3237434986269012185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_41
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 192
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9480dc8316c79f860800000000000000
+      internalID: 7564213806152091721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 192
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954450b7e650aec50800000000000000
+      internalID: 6695169768108147801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_43
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 192
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5f6a19afca62030800000000000000
+      internalID: 3469650755120985542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 192
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bce8b799c5054770800000000000000
+      internalID: 8594281827298503862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 192
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3733898bf60cca0800000000000000
+      internalID: -5998671865039326288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_46
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 192
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b215a8900a3100b0800000000000000
+      internalID: -5764262273822158154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 192
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aee65676e466490800000000000000
+      internalID: -7753423502481364347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05192c7e6b8cfa400800000000000000
+      internalID: 337709184973967696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 144
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e3a4cb00d724410800000000000000
+      internalID: 1459866671333916226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 144
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d463f5c0e7a79a0b0800000000000000
+      internalID: -5716903570178099635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 144
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da426dcd3bee20450800000000000000
+      internalID: 6053663305410946221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 144
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a7326c83ea65d50800000000000000
+      internalID: 6725754652390029849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_53
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 144
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f509f7180c453d0800000000000000
+      internalID: -3218736171239579818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 144
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db2b80253cd32230800000000000000
+      internalID: 3612973446818638803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_55
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 144
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e799e69c1fb869b70800000000000000
+      internalID: 8905459183754582398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 144
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54ea6fb09498eba0800000000000000
+      internalID: -6059429949219347362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 130
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd604399b634b80800000000000000
+      internalID: -8411761373250921289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_58
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 155
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf33a4db2724ab840800000000000000
+      internalID: 5240574176968455163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_59
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 155
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126f1c4e228891d0800000000000000
+      internalID: -3343779587965361641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 96
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e4c079fdb5f45d0800000000000000
+      internalID: -3076139004600758645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 96
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145e9ab893bfb9590800000000000000
+      internalID: -7666257716093262527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 96
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad0798009bf92e0800000000000000
+      internalID: -2116769887883830659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 96
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b5d05611a06f30800000000000000
+      internalID: 4566827139371217397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b634ce4b1762cf0800000000000000
+      internalID: -277409305164813428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_65
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 96
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd0cc006c092ca0800000000000000
+      internalID: -6041283818470450047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 96
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ff67e7c1aa37050800000000000000
+      internalID: 5797164184713494364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_67
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 96
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cdc35cc4f7eed10800000000000000
+      internalID: 2156801239260388356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_68
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 96
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c113aa08b013cf120800000000000000
+      internalID: 2448886222855745820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_69
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 131
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f35232eaf183d50800000000000000
+      internalID: 6717153676997508950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_70
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 131
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f835d6c4198ba680800000000000000
+      internalID: -8742743529281472272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_71
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 131
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d964664675c593620800000000000000
+      internalID: 2754334177530103453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_72
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 131
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b1472ec88642100800000000000000
+      internalID: 82305647503481719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 131
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823be334270c26e80800000000000000
+      internalID: -8186769575619153112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_74
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 118
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfded2e1af194f80800000000000000
+      internalID: -8121925672829526069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_75
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 118
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18708c2b0cecda750800000000000000
+      internalID: 6317933179299170177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 96
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9073448ccfc9d60800000000000000
+      internalID: 7898465783569123794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_77
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae673ef45a4906e0800000000000000
+      internalID: -1870882441292976465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 48
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc13fb92707946b20800000000000000
+      internalID: 3126790098322928079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_79
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c2fbd2c9de93d30800000000000000
+      internalID: 4411818565024295953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_80
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e03ab1c46f6200e0800000000000000
+      internalID: -2305157580722655000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_81
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 48
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77d3ca2c311f8b0800000000000000
+      internalID: -5120289574509250626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_82
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 48
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77718ffa3ac522390800000000000000
+      internalID: -7844605742824286345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 48
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2840c78250dc8150800000000000000
+      internalID: 5876300666695075885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_84
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 48
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b3d7f98dc475b0800000000000000
+      internalID: -5371442463094099663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_85
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 48
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b1f64c57999450800000000000000
+      internalID: 6096069993205707365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_86
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 77
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1ba8cda4cb91920800000000000000
+      internalID: 2961605259686490622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_87
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 60
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305e92a8b855cb0800000000000000
+      internalID: -4875837596034071608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_88
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 59
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68425a17cbd7712d0800000000000000
+      internalID: -3308037152966368122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 59
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec67e46407efd1290800000000000000
+      internalID: -7917892811678124338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_90
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 60
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f198f85f0e98440800000000000000
+      internalID: 4938725811668197121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_91
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 60
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cb886c0d8d07720800000000000000
+      internalID: 2842009756066430016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_92
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001371996a038ed70800000000000000
+      internalID: 9072554941429002496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_93
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ed2a130b451d380800000000000000
+      internalID: -8948277868884730297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_94
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b401ae4d63444ac70800000000000000
+      internalID: 8981378559174643787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_95
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf1c64968500d350800000000000000
+      internalID: 6039333175877705670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_96
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feefdac83055b940800000000000000
+      internalID: 5311239540405432051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_97
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0c57f94e561b00800000000000000
+      internalID: 798929655680470594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_98
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 43
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5152fccccc9f544c0800000000000000
+      internalID: -4303759210877868779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_99
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 43
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed82d787a84442e0800000000000000
+      internalID: -2142507638346052122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_100
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 43
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c658b7d52a655d520800000000000000
+      internalID: 2726180404795770220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_101
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 43
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25d0459782488190800000000000000
+      internalID: -7960039191285279446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_102
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39f699e307455a0800000000000000
+      internalID: -6533473745243237464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_103
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a625426db3e71c0800000000000000
+      internalID: -4504096786405496298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_104
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff61936fdef7d9e0800000000000000
+      internalID: -1596527307477913608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_105
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 27
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e7e3b030550ffc0800000000000000
+      internalID: -3463174641886003687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_106
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 27
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d5581dbca50d830800000000000000
+      internalID: 4093871892719820184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_107
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 27
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5e12711d9837890800000000000000
+      internalID: -7461468626493512229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_108
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 27
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62841785c6c687f50800000000000000
+      internalID: 6879367643404519462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_109
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 27
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4eeacada992570800000000000000
+      internalID: 8442449240980868013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_110
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 9
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f024f49a2b2750800000000000000
+      internalID: 6281160924537616445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_111
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 8
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ceb6b35e016840800000000000000
+      internalID: 5215465596182775691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_112
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 17
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82703fe2e63d58f20800000000000000
+      internalID: 3424375561872672552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boys_soccer_uniform_france___sprite_mv_by_karmenis_dci6zvc_113
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e010672e33b5330800000000000000
+      internalID: 3700608566550400562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
