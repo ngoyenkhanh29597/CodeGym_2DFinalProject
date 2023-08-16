@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovementAnimation : MonoBehaviour
+public class Main_Movement : MonoBehaviour
 {
     public float speedMove;
     public bool isMoving;
@@ -35,7 +35,6 @@ public class MovementAnimation : MonoBehaviour
         {
             transform.localScale = new Vector3(-1, 1, 1);
         }
-
 
         animator.SetBool("Move", isMoving);
     }

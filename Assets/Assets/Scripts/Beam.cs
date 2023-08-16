@@ -4,18 +4,30 @@ using UnityEngine;
 
 public class Beam : MonoBehaviour
 {
-    [SerializeField] private Rigidbody2D rb;
-    [SerializeField] private float speed;
-    // Start is called before the first frame update
+    public float loveDmg;
 
-    public void Init(Vector2 dir)
+    public void setLoveDamage(float lovedmg)
     {
-        rb.velocity = dir * speed;
+        this.loveDmg = lovedmg;
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        collision.transform.GetComponent<Boys>().GetShot();
-        Destroy(gameObject);
+        //if (collision.gameObject.tag == "NPC_Boy")
+        //{
+        //    
+        //    Destroy(gameObject);
+        //}
+
+        if (collision.CompareTag("NPC_Boy"))
+        {
+            NPC_Boys boy = collision.GetComponent<NPC_Boys>();
+            if (boy != null)
+            {
+                boy.TakeLove(this.loveDmg);
+                Debug.Log("Boy gets hit");
+                Destroy(gameObject);
+            }
+        }
     }
-   
 }

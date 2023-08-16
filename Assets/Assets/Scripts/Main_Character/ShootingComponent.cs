@@ -2,20 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Shooting : MonoBehaviour
+public class ShootingComponent : MonoBehaviour
 {
-    public GameObject targetAim;
-    public GameObject player;
-    private Vector3 target;
-    public GameObject bullet;
+    public GameObject targetAim; // Insert visual of target aim (mouse)
+    public GameObject player; // Player object and also the position of the bullets are shot from
+    private Vector3 target; // Position that player wants to aim
+    public GameObject bullet; //Insert visual of the bullet
     //public GameObject bulletStart;
 
-    public float bulletSpeed;
+    public float bulletSpeed; // Bullet speed
 
     // Start is called before the first frame update
     void Start()
     {
-        Cursor.visible = false;
+        Cursor.visible = false; // Invisible the real mouse, keep the visual of target aim only
     }
 
     // Update is called once per frame
@@ -26,7 +26,6 @@ public class Shooting : MonoBehaviour
 
         Vector3 difference = target - player.transform.position; //Find vector between two points (from player's position to the mouse's position)
         float rotationZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg; //Find the angle between x-axis and the difference vector 
-        //player.transform.rotation = Quaternion.Euler(0.0f, 0.0f, rotationZ);
 
         if (Input.GetMouseButtonDown(0)) //Get mouse's click event
         {

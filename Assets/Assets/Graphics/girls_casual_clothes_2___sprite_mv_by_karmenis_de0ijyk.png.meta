@@ -1,0 +1,2617 @@
+fileFormatVersion: 2
+guid: 49eab7d97ce6347df91863cb5c9a54ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6744131464797502742
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_0
+  - first:
+      213: 5364269323516621752
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_1
+  - first:
+      213: -4739181425079385231
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_2
+  - first:
+      213: 5424903174048545083
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_3
+  - first:
+      213: 1672430852899126462
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_4
+  - first:
+      213: -7921394733403758099
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_5
+  - first:
+      213: -3850843589397823241
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_6
+  - first:
+      213: -6591622713662026378
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_7
+  - first:
+      213: -673941490254773794
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_8
+  - first:
+      213: 9141254492121469778
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_9
+  - first:
+      213: 6313405800063108169
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_10
+  - first:
+      213: -2017902992152271798
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_11
+  - first:
+      213: -3574234124961455795
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_12
+  - first:
+      213: 5205182691122428861
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_13
+  - first:
+      213: -8593900625573770397
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_14
+  - first:
+      213: 5776759885061573430
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_15
+  - first:
+      213: 8584060633942973935
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_16
+  - first:
+      213: 5763709163724525378
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_17
+  - first:
+      213: 2045189304854403623
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_18
+  - first:
+      213: 3477582343307998488
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_19
+  - first:
+      213: 8750974027219111618
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_20
+  - first:
+      213: -2749336289600912464
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_21
+  - first:
+      213: 73833408461586829
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_22
+  - first:
+      213: 1230259702390392640
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_23
+  - first:
+      213: -1724688310079486490
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_24
+  - first:
+      213: 6371958895140233638
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_25
+  - first:
+      213: -2149708190923579524
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_26
+  - first:
+      213: 4990782408773345399
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_27
+  - first:
+      213: 7335459435460874720
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_28
+  - first:
+      213: -3672915835292968799
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_29
+  - first:
+      213: 7977667034136768391
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_30
+  - first:
+      213: 2143101490362420941
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_31
+  - first:
+      213: -1764436123714045447
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_32
+  - first:
+      213: -8333000523864338224
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_33
+  - first:
+      213: 6116432819926281491
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_34
+  - first:
+      213: -5830147547664384003
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_35
+  - first:
+      213: 8416351572810896566
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_36
+  - first:
+      213: -2779017705152239974
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_37
+  - first:
+      213: -6227209877833965423
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_38
+  - first:
+      213: -1944658066495912121
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_39
+  - first:
+      213: -8295659997322519213
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_40
+  - first:
+      213: -4525295516118127364
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_41
+  - first:
+      213: -1873918015283530032
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_42
+  - first:
+      213: 4296680941678284244
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_43
+  - first:
+      213: -4898375489391247848
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_44
+  - first:
+      213: 1995117399673824087
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_45
+  - first:
+      213: -4638158476575936960
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_46
+  - first:
+      213: 9193874520921086347
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_47
+  - first:
+      213: 6132314783093009841
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_48
+  - first:
+      213: 2379701601661698382
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_49
+  - first:
+      213: -2739149937240706821
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_50
+  - first:
+      213: 6878376271183507450
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_51
+  - first:
+      213: 2233943975461473503
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_52
+  - first:
+      213: 5220496580648234244
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_53
+  - first:
+      213: -8457070916781888074
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_54
+  - first:
+      213: -8860126881362037904
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_55
+  - first:
+      213: -4272106470990925197
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_56
+  - first:
+      213: 4847652574695062210
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_57
+  - first:
+      213: -8187746913984176320
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_58
+  - first:
+      213: -6884635362569440635
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_59
+  - first:
+      213: 4507966043638909293
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_60
+  - first:
+      213: 2336943001538465371
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_61
+  - first:
+      213: 3753226907424543947
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_62
+  - first:
+      213: 2844642869065101454
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_63
+  - first:
+      213: 551412069546122739
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_64
+  - first:
+      213: 7471880073359131774
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_65
+  - first:
+      213: 6067748890409367814
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_66
+  - first:
+      213: 7953659388936718633
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_67
+  - first:
+      213: -4340496606879313054
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_68
+  - first:
+      213: 7088806203793613996
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_69
+  - first:
+      213: 8452646688026415420
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_70
+  - first:
+      213: 4101974883489189156
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_71
+  - first:
+      213: 4560576792214270621
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_72
+  - first:
+      213: 994295498891064152
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_73
+  - first:
+      213: 7158892428266920639
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_74
+  - first:
+      213: 5090599983920601992
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_75
+  - first:
+      213: 4746615958125046755
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_76
+  - first:
+      213: -1120876378788032429
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_77
+  - first:
+      213: -956685843808324482
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_78
+  - first:
+      213: -2108664982593320741
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_79
+  - first:
+      213: 361456985918579806
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_80
+  - first:
+      213: 5604532782802837122
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_81
+  - first:
+      213: -5929734189796026857
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_82
+  - first:
+      213: -4367215265372622129
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_83
+  - first:
+      213: 1472263247456076278
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_84
+  - first:
+      213: 3454086220940807081
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_85
+  - first:
+      213: -3179508635466673221
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_86
+  - first:
+      213: 7577627331907941727
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_87
+  - first:
+      213: 9193735990081494619
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_88
+  - first:
+      213: 8034658693404417911
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_89
+  - first:
+      213: 7593071641921624893
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_90
+  - first:
+      213: 1900636279119551706
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_91
+  - first:
+      213: -4485282226170472448
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_92
+  - first:
+      213: -7288704500784244561
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_93
+  - first:
+      213: 615729045608019128
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_94
+  - first:
+      213: -4447630162834462922
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_95
+  - first:
+      213: -4139586985622427461
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_96
+  - first:
+      213: 8721648385400508969
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_97
+  - first:
+      213: -394403608188370992
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_98
+  - first:
+      213: -2762599369107661423
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_99
+  - first:
+      213: -2329977355014793319
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_100
+  - first:
+      213: -9093681583347696658
+    second: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_101
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 336
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2c53a2a280862a0800000000000000
+      internalID: -6744131464797502742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 336
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3bbb35786b17a40800000000000000
+      internalID: 5364269323516621752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 336
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17383086a9b0b3eb0800000000000000
+      internalID: -4739181425079385231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 336
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b397d06c1b0294b40800000000000000
+      internalID: 5424903174048545083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 336
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcb472fffaa53710800000000000000
+      internalID: 1672430852899126462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 336
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1a1d5957d811290800000000000000
+      internalID: -7921394733403758099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 336
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f04a58782e0f8ac0800000000000000
+      internalID: -3850843589397823241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 336
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d47cad01ad584a0800000000000000
+      internalID: -6591622713662026378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 336
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed187f909cda5a6f0800000000000000
+      internalID: -673941490254773794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 325
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253185437824cde70800000000000000
+      internalID: 9141254492121469778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 350
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94407a31029bd9750800000000000000
+      internalID: 6313405800063108169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 350
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44e0918be7fef3e0800000000000000
+      internalID: -2017902992152271798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 288
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e79d1005c56ec0800000000000000
+      internalID: -3574234124961455795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 288
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb3d5f44168c3840800000000000000
+      internalID: 5205182691122428861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 288
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b0ba9d9e45cb880800000000000000
+      internalID: -8593900625573770397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 288
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b42d5428c2b2050800000000000000
+      internalID: 5776759885061573430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 288
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd5909aa5b02770800000000000000
+      internalID: 8584060633942973935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 288
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc67c62feccff40800000000000000
+      internalID: 5763709163724525378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 288
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a564e36d8f16c10800000000000000
+      internalID: 2045189304854403623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 288
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8153b0a57bad24030800000000000000
+      internalID: 3477582343307998488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 288
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce801b5384b17970800000000000000
+      internalID: 8750974027219111618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_21
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 326
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b34f32163568d9d0800000000000000
+      internalID: -2749336289600912464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_22
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 326
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81c8e3081f460100800000000000000
+      internalID: 73833408461586829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 326
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047057e5ea2c21110800000000000000
+      internalID: 1230259702390392640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_24
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 326
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e58179ae1da018e0800000000000000
+      internalID: -1724688310079486490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_25
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 326
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a16934eadebd6850800000000000000
+      internalID: 6371958895140233638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_26
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 326
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f904d3ac3ba22e0800000000000000
+      internalID: -2149708190923579524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_27
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 313
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77024329822d24540800000000000000
+      internalID: 4990782408773345399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_28
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 313
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1deeadd79ccc560800000000000000
+      internalID: 7335459435460874720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_29
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 291
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8947bf18e270dc0800000000000000
+      internalID: -3672915835292968799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 240
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fe01a66ed56be60800000000000000
+      internalID: 7977667034136768391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 240
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce89aa6373ddbd10800000000000000
+      internalID: 2143101490362420941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 240
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f93821a1b67387e0800000000000000
+      internalID: -1764436123714045447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 240
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d01ce57c2c3b5c80800000000000000
+      internalID: -8333000523864338224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 240
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d2f345e3fe1e450800000000000000
+      internalID: 6116432819926281491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_35
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 240
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff7951e1b7271fa0800000000000000
+      internalID: -5830147547664384003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 240
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4913ae923ecc470800000000000000
+      internalID: 8416351572810896566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 192
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9621ebfe12fe69d0800000000000000
+      internalID: -2779017705152239974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_38
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 240
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19027e9fb918499a0800000000000000
+      internalID: -6227209877833965423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_39
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 272
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747c9e0bacf2305e0800000000000000
+      internalID: -1944658066495912121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 255
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d5c2a4f25efdc80800000000000000
+      internalID: -8295659997322519213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_41
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 254
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc6c1244bbe231c0800000000000000
+      internalID: -4525295516118127364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_42
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 254
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6f1d85e718ef5e0800000000000000
+      internalID: -1873918015283530032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_43
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 255
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddcce93d80e0ab30800000000000000
+      internalID: 4296680941678284244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_44
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 255
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eba52f179750cb0800000000000000
+      internalID: -4898375489391247848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_45
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 192
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75362c454b410bb10800000000000000
+      internalID: 1995117399673824087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_46
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 192
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e69b78073f1afb0800000000000000
+      internalID: -4638158476575936960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 238
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8914016a24379f70800000000000000
+      internalID: 9193874520921086347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_48
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 238
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bda2290ecb5a1550800000000000000
+      internalID: 6132314783093009841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_49
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 238
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41497e9ff5660120800000000000000
+      internalID: 2379701601661698382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_50
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 238
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0fb3c05a59cf9d0800000000000000
+      internalID: -2739149937240706821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff6e5386c6e47f50800000000000000
+      internalID: 6878376271183507450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_52
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 192
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc4181b530900f10800000000000000
+      internalID: 2233943975461473503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_53
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40deda01bfde27840800000000000000
+      internalID: 5220496580648234244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 192
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdade40fc272aa80800000000000000
+      internalID: -8457070916781888074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 192
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073b68b5b818a0580800000000000000
+      internalID: -8860126881362037904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 192
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37230f99ccd66b4c0800000000000000
+      internalID: -4272106470990925197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 222
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf43d2552564340800000000000000
+      internalID: 4847652574695062210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 222
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f1c21ff874f5e80800000000000000
+      internalID: -8187746913984176320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_59
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 222
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b4f53d9cd470a0800000000000000
+      internalID: -6884635362569440635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_60
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 222
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69ce928b338f8e30800000000000000
+      internalID: 4507966043638909293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_61
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 222
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e090b374d7e6020800000000000000
+      internalID: 2336943001538465371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_62
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 204
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45a72acf3261430800000000000000
+      internalID: 3753226907424543947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_63
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 203
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80397b2e933a7720800000000000000
+      internalID: 2844642869065101454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_64
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 212
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd8221b5207a700800000000000000
+      internalID: 551412069546122739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_65
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 204
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7404e8c65371b760800000000000000
+      internalID: 7471880073359131774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609fe1fa779f43450800000000000000
+      internalID: 6067748890409367814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_67
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 144
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929060ee213116e60800000000000000
+      internalID: 7953659388936718633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 144
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2639b2e355573c3c0800000000000000
+      internalID: -4340496606879313054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 144
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca424ba2faf706260800000000000000
+      internalID: 7088806203793613996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_70
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3152b3f065dd4570800000000000000
+      internalID: 8452646688026415420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 144
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d82ff5c642de830800000000000000
+      internalID: 4101974883489189156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_72
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 144
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9272d6fd6c6a4f30800000000000000
+      internalID: 4560576792214270621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_73
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 144
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853fb2dfc727ccd00800000000000000
+      internalID: 994295498891064152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_74
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 144
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba551cebbe795360800000000000000
+      internalID: 7158892428266920639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b5237d6b175a640800000000000000
+      internalID: 5090599983920601992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb6e35b01e5fd140800000000000000
+      internalID: 4746615958125046755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35096354fd8d170f0800000000000000
+      internalID: -1120876378788032429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_78
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 96
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74f8263b4b29b2f0800000000000000
+      internalID: -956685843808324482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_79
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8483ade548cb2e0800000000000000
+      internalID: -2108664982593320741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_80
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 96
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a24fa637240500800000000000000
+      internalID: 361456985918579806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_81
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 96
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e9ef23fdc47cd40800000000000000
+      internalID: 5604532782802837122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_82
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 96
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71618b4eb2a55bda0800000000000000
+      internalID: -5929734189796026857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_83
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 96
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc23dc9cad88463c0800000000000000
+      internalID: -4367215265372622129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f18b788f978e6410800000000000000
+      internalID: 1472263247456076278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 48
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8fbe0e116fef20800000000000000
+      internalID: 3454086220940807081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3d8b6edbd10e3d0800000000000000
+      internalID: -3179508635466673221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 48
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55f9ae09e3292960800000000000000
+      internalID: 7577627331907941727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_88
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 48
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e18872c26b69f70800000000000000
+      internalID: 9193735990081494619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 48
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fdfdf1387d08f60800000000000000
+      internalID: 8034658693404417911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 48
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b94d2bd62006960800000000000000
+      internalID: 7593071641921624893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 48
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc142830aa606a10800000000000000
+      internalID: 1900636279119551706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 48
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0085cbf449311c1c0800000000000000
+      internalID: -4485282226170472448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_93
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d6fdafd159da90800000000000000
+      internalID: -7288704500784244561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_94
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b43b510e428b8800800000000000000
+      internalID: 615729045608019128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_95
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63760f37ee7d642c0800000000000000
+      internalID: -4447630162834462922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_96
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8252da19b3d86c0800000000000000
+      internalID: -4139586985622427461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_97
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92218ab4ff4890970800000000000000
+      internalID: 8721648385400508969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_98
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfbccb020cc68af0800000000000000
+      internalID: -394403608188370992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_99
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d9e9bb28649a9d0800000000000000
+      internalID: -2762599369107661423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_100
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99793abb0f14aafd0800000000000000
+      internalID: -2329977355014793319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls_casual_clothes_2___sprite_mv_by_karmenis_de0ijyk_101
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb7c04c7c0ccc180800000000000000
+      internalID: -9093681583347696658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
