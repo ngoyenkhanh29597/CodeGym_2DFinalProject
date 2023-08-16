@@ -5,6 +5,6 @@ using UnityEngine;
 [CreateAssetMenu]
 public class SO_NPC_Boys : ScriptableObject
 {
-    public float speed;
-    public float lovePoint;
+    public float Speed;
+    public float LovePoint;
 }

@@ -398,7 +398,7 @@ Rigidbody2D:
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
-  m_SleepingMode: 1
+  m_SleepingMode: 0
   m_CollisionDetection: 0
   m_Constraints: 0
 --- !u!95 &2545528481508246380
@@ -434,10 +434,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93fa7c2db6ce2443a9602bea0786c01c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SOBoys: {fileID: 11400000, guid: 3b1467e177985436283a2abd08524ff6, type: 2}
   pointA: {fileID: 0}
   pointB: {fileID: 0}
   animatorNPCMovement: {fileID: 0}
+  speed: 0
 --- !u!114 &2545528481508246379
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -452,6 +452,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SOBoys: {fileID: 11400000, guid: 3b1467e177985436283a2abd08524ff6, type: 2}
   love: {fileID: 2545528481508246378}
+  movement: {fileID: 2545528481508246381}
 --- !u!114 &2545528481508246378
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -9,8 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a121b4f6b23834203a4e4f7f395ad72d, type: 3}
-  m_Name: Boy 1
+  m_Script: {fileID: 11500000, guid: 20468d01e9aab423e8c7a0276cff5f79, type: 3}
+  m_Name: Girl 1
   m_EditorClassIdentifier: 
   Speed: 2
-  LovePoint: 100
+  LoveDmg: 10
+  CoolDown: 1
+  RangeAttack: 7

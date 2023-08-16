@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a121b4f6b23834203a4e4f7f395ad72d, type: 3}
   m_Name: Boy 2
   m_EditorClassIdentifier: 
-  speed: 1.5
-  lovePoint: 50
+  Speed: 1.2
+  LovePoint: 50

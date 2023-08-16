@@ -4,34 +4,42 @@ using UnityEngine;
 
 public class NPC_Movement : MonoBehaviour
 {
-    public SO_NPC_Boys SOBoys;
-    private Rigidbody2D boy;
+    //public SO_NPC_Boys SOBoys;
+    private Rigidbody2D NPC;
     public GameObject pointA;
     public GameObject pointB;
     public Animator animatorNPCMovement;
     private Transform currentPoint;
-    //public float speed;
+    public float speed;
     
     // Start is called before the first frame update
-    void Start()
+    //void Start()
+    //{
+    //    boy = GetComponent<Rigidbody2D>();
+    //    animatorNPCMovement = GetComponent<Animator>();
+    //    currentPoint = pointB.transform;
+    //    animatorNPCMovement.SetBool("isMoving", true);
+    //}
+
+    public void SetSpeedMovement(float speed)
     {
-        boy = GetComponent<Rigidbody2D>();
+        this.speed = speed;
+        NPC = GetComponent<Rigidbody2D>();
         animatorNPCMovement = GetComponent<Animator>();
         currentPoint = pointB.transform;
         animatorNPCMovement.SetBool("isMoving", true);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Movement()
     {
         Vector2 point = currentPoint.position - transform.position;
         if (currentPoint == pointB.transform)
         {
-            boy.velocity = new Vector2(SOBoys.speed, 0);
+            NPC.velocity = new Vector2(speed, 0);
         }
         else
         {
-            boy.velocity = new Vector2(-SOBoys.speed, 0);
+            NPC.velocity = new Vector2(-speed, 0);
         }
 
         //float distance = Vector2.Distance(transform.position, currentPoint.position);
@@ -46,7 +54,12 @@ public class NPC_Movement : MonoBehaviour
             flip();
             currentPoint = pointB.transform;
         }
-            
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        Movement();
     }
 
     private void flip()
